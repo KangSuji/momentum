@@ -25,4 +25,5 @@ if (savedUserName === null) {
   loginForm.addEventListener("submit", onLoginSubmit);
 } else {
   paintGreetings(savedUserName);
+  console.log(savedUserName);
 }
