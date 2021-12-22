@@ -15,7 +15,7 @@ HTML, CSS ,JavaScript
 - 현재 시간
 - 현재 지역 날씨
 - 랜덤 명언
-- 랜덤 
+- 랜덤 배경화면
 
 ### 현재 문제점
 css적용후 login-form 의 hidden 클래스가 작동하지 않음
